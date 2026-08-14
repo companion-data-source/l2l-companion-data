@@ -107,7 +107,16 @@ Notes on the fields:
   reappear (dismissal is remembered per wording), so don't rewrite it for
   typos you don't want re-shown. Per-site notices are read but not yet
   drawn anywhere.
-- **`links`** ships in the format but nothing in the app consumes it yet.
+- **`links`** are the official-site destinations the app sends families
+  to — `rulebook` and `forms` are drawn today, `themes` is carried for a
+  screen that doesn't exist yet. **Only lads2leaders.com URLs work**: the
+  app requires HTTPS and a host of `lads2leaders.com` or
+  `www.lads2leaders.com`, and silently drops anything else, falling back
+  to the URL it shipped with. That restriction is the whole reason
+  deep-linking specific pages is safe to do from a file on the internet.
+  The same rule applies to a `notice` link. Verify these against the live
+  site every rulebook edition — that is the standing condition on the
+  ruling that allowed them (2026-08-13).
 - **`latestCatalogYear` / `latestAppVersion`** produce a gentle "there's a
   newer version" line in an older build. They are a nudge and never a
   gate: an out-of-date app keeps working.

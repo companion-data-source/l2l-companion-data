@@ -109,7 +109,11 @@
       "topic": "Resolved: The existence of a loving God is consistent with disobedient people being sent to Hell."
     }
   },
-  "links": {},
+  "links": {
+    "rulebook": "https://www.lads2leaders.com/themes-deadlines-and-rulebook/",
+    "forms": "https://www.lads2leaders.com/forms/",
+    "themes": "https://www.lads2leaders.com/themes-deadlines-and-rulebook/"
+  },
   "latestCatalogYear": 2027,
   "latestAppVersion": "1.0"
 }
