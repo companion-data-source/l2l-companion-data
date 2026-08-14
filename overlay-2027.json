@@ -1,0 +1,115 @@
+{
+  "overlayVersion": 1,
+  "conventionYear": 2027,
+  "publishedAt": "2026-08-14",
+  "sites": {
+    "atlanta": {
+      "registrationDeadline": "2027-02-02",
+      "earlyBird": "2027-01-05",
+      "testingStarts": "2027-02-11",
+      "testingEnds": "2027-02-25",
+      "testingWindow": "Feb 11 - Feb 25, 2027",
+      "conventionStarts": "2027-03-25",
+      "conventionEnds": "2027-03-28",
+      "colorDivisions": [
+        "Red",
+        "Blue"
+      ]
+    },
+    "colorado": {
+      "registrationDeadline": "2027-02-02",
+      "earlyBird": "2027-01-05",
+      "testingStarts": "2027-02-11",
+      "testingEnds": "2027-02-25",
+      "testingWindow": "Feb 11 - Feb 25, 2027",
+      "conventionStarts": "2027-04-16",
+      "conventionEnds": "2027-04-18"
+    },
+    "little-rock": {
+      "registrationDeadline": "2027-02-02",
+      "earlyBird": "2027-01-05",
+      "testingStarts": "2027-02-11",
+      "testingEnds": "2027-02-25",
+      "testingWindow": "Feb 11 - Feb 25, 2027",
+      "conventionStarts": "2027-03-25",
+      "conventionEnds": "2027-03-28"
+    },
+    "louisville": {
+      "registrationDeadline": "2027-02-02",
+      "earlyBird": "2027-01-05",
+      "testingStarts": "2027-02-11",
+      "testingEnds": "2027-02-25",
+      "testingWindow": "Feb 11 - Feb 25, 2027",
+      "conventionStarts": "2027-03-25",
+      "conventionEnds": "2027-03-28"
+    },
+    "mid-atlantic": {
+      "registrationDeadline": "2027-04-15",
+      "earlyBird": "2027-03-11",
+      "testingStarts": "2027-04-22",
+      "testingEnds": "2027-05-06",
+      "testingWindow": "Apr 22 - May 6, 2027",
+      "conventionStarts": "2027-05-28",
+      "conventionEnds": "2027-05-30"
+    },
+    "nashville": {
+      "registrationDeadline": "2027-02-02",
+      "earlyBird": "2027-01-05",
+      "testingStarts": "2027-02-11",
+      "testingEnds": "2027-02-25",
+      "testingWindow": "Feb 11 - Feb 25, 2027",
+      "conventionStarts": "2027-03-25",
+      "conventionEnds": "2027-03-28",
+      "colorDivisions": [
+        "Red",
+        "Blue",
+        "Green",
+        "Yellow"
+      ]
+    },
+    "north-las-vegas": {
+      "registrationDeadline": "2027-03-25",
+      "earlyBird": "2027-03-01",
+      "testingStarts": "2027-04-01",
+      "testingEnds": "2027-04-15",
+      "testingWindow": "Apr 1 - Apr 15, 2027",
+      "conventionStarts": "2027-04-30",
+      "conventionEnds": "2027-05-02"
+    },
+    "oklahoma": {
+      "registrationDeadline": "2027-03-25",
+      "earlyBird": "2027-03-01",
+      "testingStarts": "2027-04-01",
+      "testingEnds": "2027-04-15",
+      "testingWindow": "Apr 1 - Apr 15, 2027",
+      "conventionStarts": "2027-04-30",
+      "conventionEnds": "2027-05-02"
+    },
+    "orlando": {
+      "registrationDeadline": "2027-02-02",
+      "earlyBird": "2027-01-05",
+      "testingStarts": "2027-02-11",
+      "testingEnds": "2027-02-25",
+      "testingWindow": "Feb 11 - Feb 25, 2027",
+      "conventionStarts": "2027-03-25",
+      "conventionEnds": "2027-03-28"
+    },
+    "texas": {
+      "registrationDeadline": "2027-02-02",
+      "earlyBird": "2027-01-05",
+      "testingStarts": "2027-02-11",
+      "testingEnds": "2027-02-25",
+      "testingWindow": "Feb 11 - Feb 25, 2027",
+      "conventionStarts": "2027-03-25",
+      "conventionEnds": "2027-03-28"
+    }
+  },
+  "events": {
+    "debate": {
+      "topic": "Resolved: The existence of a loving God is consistent with disobedient people being sent to Hell."
+    }
+  },
+  "links": {},
+  "latestCatalogYear": 2027,
+  "latestAppVersion": "1.0"
+}
