@@ -106,7 +106,41 @@
   },
   "events": {
     "debate": {
-      "topic": "Resolved: The existence of a loving God is consistent with disobedient people being sent to Hell."
+      "topic": "Resolved: The existence of a loving God is consistent with disobedient people being sent to Hell.",
+      "changedThisEdition": "Awards are now given on team performance only, the winning team's 5-point bonus was dropped, and most sites will run bracket tournaments."
+    },
+    "bible-bowl-individual-test": {
+      "changedThisEdition": "A Perfect Score award for the online test is new this year and is presented on stage."
+    },
+    "mass-communications-powerpoint": {
+      "changedThisEdition": "This year's lesson supports chapter 11 of the Pearls book 'No Other God'."
+    },
+    "providers": {
+      "changedThisEdition": "Basic Plumbing no longer asks for three soldered copper joints."
+    },
+    "red-coat-award": {
+      "changedThisEdition": "The Board of Review is gone, everything is now due October 15 instead of September 1, and the elective and event requirements were restructured — read the Red Coat pages again this year."
+    },
+    "sower": {
+      "changedThisEdition": "The book is now titled 'Sower: Evangelism Training for Everyone'."
+    },
+    "speech": {
+      "changedThisEdition": "A first-place winner is no longer eligible for regular Speech the next year and must enter Winners' Circle Speech where the site offers it."
+    },
+    "winners-circle-song-leading": {
+      "changedThisEdition": "The Winners' Circle song list was replaced; eleven of the twenty-one songs are new."
+    },
+    "winners-circle-songs-of-praise": {
+      "changedThisEdition": "The Winners' Circle song list was replaced; eleven of the twenty-one songs are new."
+    },
+    "winners-circle-speech": {
+      "changedThisEdition": "The impromptu speech is now required — a participant who doesn't give one can't place — and this year's topics come from the Pearls book 'No Other God', chapters 2, 8, and 13."
+    },
+    "year-round-bible-reading-study": {
+      "changedThisEdition": "The Advanced Bible Reader website is no longer suggested in the rulebook."
+    },
+    "year-round-songs-of-praise": {
+      "changedThisEdition": "The rulebook no longer advises timing the final evaluation just before the convention deadline."
     }
   },
   "links": {
