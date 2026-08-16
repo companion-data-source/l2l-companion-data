@@ -3,11 +3,11 @@ title: Privacy Policy
 permalink: /privacy
 ---
 
-# Privacy Policy — Convention Companion ("The Unofficial L2L App")
+# Privacy Policy — Convention Season Companion ("The Unofficial L2L App")
 
 *Effective August 15, 2026*
 
-Convention Companion is built for families. The shortest honest summary: **your family's information stays with your family.** We run no servers, require no accounts, and collect no data.
+Convention Season Companion is built for families. The shortest honest summary: **your family's information stays with your family.** We run no servers, require no accounts, and collect no data.
 
 ## What the app stores, and where
 
@@ -46,4 +46,4 @@ Questions about this policy: open an issue in this repository.
 
 ---
 
-*Convention Companion is an independent app and is not affiliated with, endorsed by, or sponsored by Lads to Leaders/Leaderettes. "L2L" is used to describe compatibility with the program. This is an app privacy policy — nothing in the app or its pricing is the L2L convention registration fee.*
+*Convention Season Companion is an independent app and is not affiliated with, endorsed by, or sponsored by Lads to Leaders/Leaderettes. "L2L" is used to describe compatibility with the program. This is an app privacy policy — nothing in the app or its pricing is the L2L convention registration fee.*
