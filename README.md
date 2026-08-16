@@ -24,7 +24,7 @@ has left the app's offered years.
 The app fetches the raw URL:
 
 ```
-https://raw.githubusercontent.com/picachu-power/l2l-companion-data/main/overlay-2027.json
+https://raw.githubusercontent.com/companion-data-source/l2l-companion-data/main/overlay-2027.json
 ```
 
 Every value in the seeded file is copied byte-for-byte out of the
