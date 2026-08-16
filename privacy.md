@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+permalink: /privacy
+---
+
 # Privacy Policy — Convention Companion ("The Unofficial L2L App")
 
 *Effective August 15, 2026*
