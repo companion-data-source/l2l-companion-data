@@ -1,7 +1,7 @@
 {
   "overlayVersion": 1,
   "conventionYear": 2027,
-  "publishedAt": "2026-08-14",
+  "publishedAt": "2026-08-18",
   "sites": {
     "atlanta": {
       "registrationDeadline": "2027-02-02",
@@ -149,5 +149,8 @@
     "themes": "https://www.lads2leaders.com/themes-deadlines-and-rulebook/"
   },
   "latestCatalogYear": 2027,
-  "latestAppVersion": "1.0"
+  "latestAppVersion": "1.0",
+  "notice": {
+    "text": "Beta note: syncing between your own devices isn't working yet — an Apple-side issue we're actively working with them on. Your family's information is safe on your phone, and nothing is lost. To copy your family to another device meanwhile, use Share Family Snapshot in My Family."
+  }
 }
