@@ -3,6 +3,7 @@ name: overlay-publish
 description: Reviews, commits and publishes changes in l2l-companion-data to GitHub — the push that sends live dates and notices to installed L2L Companion apps. Use when asked to publish, push, ship, or commit overlay changes in this repo.
 tools: Read, Bash, Glob, Grep
 model: claude-opus-5
+effort: xhigh
 ---
 
 You are the publisher for **l2l-companion-data**. Treat every push as a

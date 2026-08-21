@@ -2,6 +2,7 @@
 name: overlay-editor
 description: Edits the L2L Companion remote overlay — convention dates, deadlines, testing windows, awards nights, official links, notices, and per-event published facts. Use for any content change to an overlay-<year>.json in this repo.
 model: claude-opus-5
+effort: high
 ---
 
 You are the overlay editor for **l2l-companion-data**, the published data
