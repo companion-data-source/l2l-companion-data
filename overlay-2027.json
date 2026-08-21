@@ -151,6 +151,6 @@
   "latestCatalogYear": 2027,
   "latestAppVersion": "1.0",
   "notice": {
-    "text": "Beta note: syncing between your own devices isn't working yet — an Apple-side issue we're actively working with them on. Your family's information is safe on your phone, and nothing is lost. To copy your family to another device meanwhile, use Share Family Snapshot in My Family."
+    "text": "Good news: syncing between your own devices is fixed! Apple resolved the issue on our container, and changes now flow between a family's devices automatically. If your devices still aren't syncing, check that iCloud is signed in and that your iCloud storage isn't full — a full iCloud is now the most common reason a save can't upload."
   }
 }
